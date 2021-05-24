@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+#video{
+    height: 700px;
+    width: 1400px;
+}
+iframe{
+    height: 700px;
+    width: 1400px;
+}
